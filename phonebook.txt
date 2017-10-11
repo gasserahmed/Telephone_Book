@@ -1,0 +1,5 @@
+mohamed,ahmed,32 mostafa el wara2 street,alexandria,4266666
+john,michael,10 el shahid daniel street,alexandria,4255555
+mina,ahmed,25 el tahrir square,cairo,01006666666
+michael,gasser,10 el wezara,alexandria,5847619
+moustafa,moemen,bolkly,alexandria,07775000
